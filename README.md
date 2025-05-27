@@ -1,5 +1,7 @@
 
-![image](https://github.com/user-attachments/assets/6c1b83f2-fbac-44ea-b1f0-132054474d8d)
+![image](https://github.com/user-attachments/assets/5063f8ad-7c62-4002-9d11-9170470c6667)
+
+
 
 
 <h1 align="center">Hey 👋, I'm Bhoomika </h1>
