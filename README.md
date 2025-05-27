@@ -15,8 +15,7 @@
 - ⚡ Fun Fact: I’m basically your backend’s best friend — _Reliable_. Performant. OverPowered. 💪
 
 
-  <b>
-  <details>
+
 <summary>Languages and Tools:</summary><br> 
     <details><summary>Programming Languages:</summary><br>
     </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
