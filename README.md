@@ -1,5 +1,6 @@
 
-![image](https://github.com/user-attachments/assets/209fec22-e3f9-41c3-85e8-3ea8790efb13)
+![image](https://github.com/user-attachments/assets/6c1b83f2-fbac-44ea-b1f0-132054474d8d)
+
 
 <h1 align="center">Hey 👋, I'm Bhoomika </h1>
 <h3 align="center">🚀 Software Engineer | Backend & Cloud Enthusiast </h3>
